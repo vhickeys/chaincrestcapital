@@ -1,0 +1,54 @@
+[16-Aug-2024 12:54:23 Africa/lagos] PHP Warning:  Undefined array key "status" in /home/tradbwll/public_html/webadmin/classes/process.php on line 108
+[16-Aug-2024 12:54:23 Africa/lagos] PHP Warning:  move_uploaded_file(../../img/settings/1723809263.png): Failed to open stream: No such file or directory in /home/tradbwll/public_html/webadmin/classes/Settings.php on line 38
+[16-Aug-2024 12:54:23 Africa/lagos] PHP Warning:  move_uploaded_file(): Unable to move &quot;/tmp/phpUOgQ4p&quot; to &quot;../../img/settings/1723809263.png&quot; in /home/tradbwll/public_html/webadmin/classes/Settings.php on line 38
+[16-Aug-2024 13:09:34 Africa/lagos] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/tradbwll/public_html/webadmin/classes/User.php on line 223
+[16-Aug-2024 13:24:20 Africa/lagos] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/tradbwll/public_html/webadmin/classes/User.php on line 223
+[16-Aug-2024 14:47:31 Africa/lagos] PHP Warning:  Undefined array key "status" in /home/tradbwll/public_html/webadmin/classes/process.php on line 151
+[18-Aug-2024 07:43:21 Africa/lagos] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/tradbwll/public_html/webadmin/classes/User.php on line 223
+[18-Aug-2024 13:25:57 Africa/lagos] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/tradbwll/public_html/webadmin/classes/User.php on line 223
+[18-Aug-2024 13:44:39 Africa/lagos] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/tradbwll/public_html/webadmin/classes/User.php on line 223
+[19-Aug-2024 10:37:39 Africa/lagos] PHP Warning:  Undefined array key "status" in /home/tradbwll/public_html/webadmin/classes/process.php on line 151
+[21-Aug-2024 18:52:29 Africa/lagos] PHP Warning:  Undefined array key "status" in /home/tradbwll/public_html/webadmin/classes/process.php on line 151
+[25-Aug-2024 17:39:48 Africa/lagos] PHP Warning:  Undefined array key "status" in /home/tradbwll/public_html/webadmin/classes/process.php on line 151
+[27-Aug-2024 18:11:34 Africa/lagos] PHP Warning:  Undefined array key "status" in /home/tradbwll/public_html/webadmin/classes/process.php on line 151
+[27-Aug-2024 18:12:01 Africa/lagos] PHP Warning:  Undefined array key "status" in /home/tradbwll/public_html/webadmin/classes/process.php on line 151
+[28-Aug-2024 19:15:15 Africa/lagos] PHP Warning:  Undefined array key "status" in /home/tradbwll/public_html/webadmin/classes/process.php on line 151
+[29-Aug-2024 18:50:07 Africa/lagos] PHP Warning:  Undefined array key "status" in /home/tradbwll/public_html/webadmin/classes/process.php on line 108
+[30-Aug-2024 13:42:50 Africa/lagos] PHP Warning:  Undefined array key "status" in /home/tradbwll/public_html/webadmin/classes/process.php on line 151
+[30-Aug-2024 13:43:04 Africa/lagos] PHP Warning:  Undefined array key "status" in /home/tradbwll/public_html/webadmin/classes/process.php on line 151
+[30-Aug-2024 13:43:06 Africa/lagos] PHP Warning:  Undefined array key "status" in /home/tradbwll/public_html/webadmin/classes/process.php on line 151
+[30-Aug-2024 13:43:07 Africa/lagos] PHP Warning:  Undefined array key "status" in /home/tradbwll/public_html/webadmin/classes/process.php on line 151
+[30-Aug-2024 15:42:26 Africa/lagos] PHP Warning:  Undefined array key "status" in /home/tradbwll/public_html/webadmin/classes/process.php on line 151
+[05-Sep-2024 15:17:03 Africa/lagos] PHP Warning:  Undefined array key "status" in /home/tradbwll/public_html/webadmin/classes/process.php on line 151
+[05-Sep-2024 18:55:14 Africa/lagos] PHP Warning:  Undefined array key "status" in /home/tradbwll/public_html/webadmin/classes/process.php on line 151
+[07-Sep-2024 19:23:00 Africa/lagos] PHP Warning:  Undefined array key "status" in /home/tradbwll/public_html/webadmin/classes/process.php on line 151
+[08-Sep-2024 00:07:43 Africa/lagos] PHP Warning:  Undefined array key "status" in /home/tradbwll/public_html/webadmin/classes/process.php on line 151
+[08-Sep-2024 00:08:24 Africa/lagos] PHP Warning:  Undefined array key "status" in /home/tradbwll/public_html/webadmin/classes/process.php on line 151
+[08-Sep-2024 02:17:51 Africa/lagos] PHP Warning:  Undefined array key "status" in /home/tradbwll/public_html/webadmin/classes/process.php on line 151
+[08-Sep-2024 15:10:38 Africa/lagos] PHP Warning:  Undefined array key "status" in /home/tradbwll/public_html/webadmin/classes/process.php on line 151
+[08-Sep-2024 19:43:27 Africa/lagos] PHP Warning:  Undefined array key "status" in /home/tradbwll/public_html/webadmin/classes/process.php on line 151
+[09-Sep-2024 20:27:36 Africa/lagos] PHP Warning:  Undefined array key "status" in /home/tradbwll/public_html/webadmin/classes/process.php on line 151
+[12-Sep-2024 20:32:48 Africa/lagos] PHP Warning:  Undefined array key "status" in /home/tradbwll/public_html/webadmin/classes/process.php on line 151
+[12-Sep-2024 22:29:31 Africa/lagos] PHP Warning:  Undefined array key "status" in /home/tradbwll/public_html/webadmin/classes/process.php on line 151
+[16-Sep-2024 12:14:19 Africa/lagos] PHP Warning:  Undefined array key "status" in /home/tradbwll/public_html/webadmin/classes/process.php on line 151
+[16-Sep-2024 12:14:52 Africa/lagos] PHP Warning:  Undefined array key "status" in /home/tradbwll/public_html/webadmin/classes/process.php on line 151
+[16-Sep-2024 12:14:53 Africa/lagos] PHP Warning:  Undefined array key "status" in /home/tradbwll/public_html/webadmin/classes/process.php on line 151
+[17-Sep-2024 18:04:54 Africa/lagos] PHP Warning:  Undefined array key "status" in /home/tradbwll/public_html/webadmin/classes/process.php on line 151
+[21-Sep-2024 15:43:32 Africa/lagos] PHP Warning:  Undefined array key "status" in /home/tradbwll/public_html/webadmin/classes/process.php on line 151
+[22-Sep-2024 16:20:52 Africa/lagos] PHP Warning:  Undefined array key "status" in /home/tradbwll/public_html/webadmin/classes/process.php on line 151
+[23-Sep-2024 16:46:04 Africa/lagos] PHP Warning:  Undefined array key "status" in /home/tradbwll/public_html/webadmin/classes/process.php on line 151
+[23-Sep-2024 16:46:05 Africa/lagos] PHP Warning:  Undefined array key "status" in /home/tradbwll/public_html/webadmin/classes/process.php on line 151
+[23-Sep-2024 23:09:43 Africa/lagos] PHP Warning:  Undefined array key "status" in /home/tradbwll/public_html/webadmin/classes/process.php on line 151
+[03-Oct-2024 17:12:43 Africa/lagos] PHP Warning:  Undefined array key "status" in /home/tradbwll/public_html/webadmin/classes/process.php on line 151
+[05-Oct-2024 09:07:27 Africa/lagos] PHP Warning:  Undefined array key "status" in /home/tradbwll/public_html/webadmin/classes/process.php on line 151
+[12-Oct-2024 16:18:56 Africa/lagos] PHP Warning:  Undefined array key "status" in /home/tradbwll/public_html/webadmin/classes/process.php on line 151
+[13-Oct-2024 18:21:14 Africa/lagos] PHP Warning:  Undefined array key "status" in /home/tradbwll/public_html/webadmin/classes/process.php on line 151
+[13-Oct-2024 20:33:47 Africa/lagos] PHP Warning:  Undefined array key "status" in /home/tradbwll/public_html/webadmin/classes/process.php on line 151
+[15-Oct-2024 18:29:30 Africa/lagos] PHP Warning:  Undefined array key "status" in /home/tradbwll/public_html/webadmin/classes/process.php on line 151
+[15-Oct-2024 19:24:55 Africa/lagos] PHP Warning:  Undefined array key "status" in /home/tradbwll/public_html/webadmin/classes/process.php on line 151
+[16-Oct-2024 20:08:23 Africa/lagos] PHP Warning:  Undefined array key "status" in /home/tradbwll/public_html/webadmin/classes/process.php on line 151
+[19-Oct-2024 01:41:58 Africa/lagos] PHP Warning:  Undefined array key "status" in /home/tradbwll/public_html/webadmin/classes/process.php on line 151
+[20-Oct-2024 00:28:57 Africa/lagos] PHP Warning:  Undefined array key "status" in /home/tradbwll/public_html/webadmin/classes/process.php on line 151
+[20-Oct-2024 00:52:41 Africa/lagos] PHP Warning:  Undefined array key "status" in /home/tradbwll/public_html/webadmin/classes/process.php on line 151
+[20-Oct-2024 01:13:35 Africa/lagos] PHP Warning:  Undefined array key "status" in /home/tradbwll/public_html/webadmin/classes/process.php on line 151
+[21-Oct-2024 23:05:16 Africa/lagos] PHP Warning:  Undefined array key "status" in /home/tradbwll/public_html/webadmin/classes/process.php on line 151
