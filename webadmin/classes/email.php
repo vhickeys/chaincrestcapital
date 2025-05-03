@@ -18,10 +18,10 @@ function welcomeMail($sendingMail, $recepientMail, $recepient)
         $mail->SMTPDebug = 0;
         // $mail->SMTPDebug = SMTP::DEBUG_SERVER;                      //Enable verbose debug output
         $mail->isSMTP();                                            //Send using SMTP
-        $mail->Host       = 'chaincrestcapital.com';                     //Set the SMTP server to send through
+        $mail->Host       = 'crest.tradeeclipse.com';                     //Set the SMTP server to send through
         $mail->SMTPAuth   = true;                                   //Enable SMTP authentication
-        $mail->Username   = 'support@chaincrestcapital.com';                     //SMTP username
-        $mail->Password   = 'support@chaincrest2025';                               //SMTP password
+        $mail->Username   = 'support@crest.tradeeclipse.com';                     //SMTP username
+        $mail->Password   = 'CrestSupport@2025';                               //SMTP password
         $mail->SMTPSecure = PHPMailer::ENCRYPTION_SMTPS;            //Enable implicit TLS encryption
         $mail->Port       = 465;                                    //TCP port to connect to; use 587 if you have set `SMTPSecure = PHPMailer::ENCRYPTION_STARTTLS`
 
@@ -65,10 +65,10 @@ function passwordChangeMail($sendingMail, $recepientMail, $recepient)
         $mail->SMTPDebug = 0;
         // $mail->SMTPDebug = SMTP::DEBUG_SERVER;                      //Enable verbose debug output
         $mail->isSMTP();                                            //Send using SMTP
-        $mail->Host       = 'chaincrestcapital.com';                     //Set the SMTP server to send through
+        $mail->Host       = 'crest.tradeeclipse.com';                     //Set the SMTP server to send through
         $mail->SMTPAuth   = true;                                   //Enable SMTP authentication
-        $mail->Username   = 'support@chaincrestcapital.com';                     //SMTP username
-        $mail->Password   = 'support@chaincrest2025';                               //SMTP password
+        $mail->Username   = 'support@crest.tradeeclipse.com';                     //SMTP username
+        $mail->Password   = 'CrestSupport@2025';                               //SMTP password
         $mail->SMTPSecure = PHPMailer::ENCRYPTION_SMTPS;            //Enable implicit TLS encryption
         $mail->Port       = 465;                                    //TCP port to connect to; use 587 if you have set `SMTPSecure = PHPMailer::ENCRYPTION_STARTTLS`
 

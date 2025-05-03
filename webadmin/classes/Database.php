@@ -12,9 +12,9 @@ class Database
     // Uncomment this for Live Connection
 
     private $hostname = "localhost";
-    private $username = "chaincre_user";
-    private $password = "chaincrestcapital@2025";
-    private $dbname = "chaincre_db";
+    private $username = "tradbwll_chainUser";
+    private $password = "chaincrest2025";
+    private $dbname = "tradbwll_chainDb";
     private $conn;
 
     public function __construct()

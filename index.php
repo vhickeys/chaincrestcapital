@@ -350,62 +350,6 @@ $latestPackage = $package->getLatestPackage("packages");
 </section>
 <!--section end-->
 
-<!--section start-->
-<section class="section-gap section-dark-bg">
-    <div class="container">
-        <!--section title-->
-        <div class="row text-center">
-            <div class="col-12">
-                <div class="section-title">
-                    <h2 class=" ">Investment Plans</h2>
-                    <p class=" ">Our Investment Plans Tailored to You</p>
-                </div>
-            </div>
-        </div><!--section title-->
-        <div class="row d-flex align-items-center">
-            <?php
-            if ($packages != null) {
-                foreach ($packages as $package) {
-            ?>
-                    <div class="col-md-6 col-gap">
-                        <div class="card mb-5 text-dark ">
-                            <img class="card-img-top" src="img/packages/<?= $package['image'] ?>" alt="Chain Crest Capital">
-                            <div class="card-body p-lg-5">
-                                <h5 class="card-title">
-                                    <a href="login.php" class="text-dark"><?= $package['name'] ?></a>
-                                </h5>
-                                <p class="card-text"><?= substr($package['description'], 0, 60) ?> ...</p>
-                                <p class="card-text">
-                                    <a href="login.php" class="text-purple-color"><small><i class="fa fa-check-square-o pr-1"></i> <?= $package['amount'] ?> Package Amount</small></a> <br>
-                                    <a href="login.php" class="text-purple-color"><small><i class="fa fa-check-square-o pr-1"></i> <?= $package['bonus'] ?> Bonus Balance</small></a> <br>
-                                    <a href="login.php" class="text-purple-color"><small><i class="fa fa-check-square-o pr-1"></i> + <?= $package['daily_profit'] ?> Daily Profit</small></a> <br>
-                                    <a href="login.php" class="text-purple-color"><small><i class="fa fa-check-square-o pr-1"></i> <?= $package['days'] ?> Days</small></a>
-                                </p>
-                            </div>
-                        </div>
-                    </div>
-                <?php
-                }
-            } else {
-                ?>
-
-                <div class="col-md-12">
-                    <div class="alert alert-info">
-                        Investment packages will be displayed as soon as your registration is confirmed!
-                    </div>
-                </div>
-
-            <?php
-            }
-            ?>
-            <div class="col-12 text-center mt-md-5 mt-3">
-                <a href="login.php" class="btn btn-purple btn-pill text-uppercase ">explore all plans</a>
-            </div>
-        </div>
-    </div>
-</section>
-<!--section end-->
-
 <!--faq section start-->
 <section class="section-gap pb-0">
     <div class="container">

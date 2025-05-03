@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Host: 127.0.0.1
--- Generation Time: Apr 20, 2025 at 07:28 AM
+-- Generation Time: May 03, 2025 at 04:44 PM
 -- Server version: 10.4.28-MariaDB
 -- PHP Version: 8.2.4
 
@@ -155,7 +155,7 @@ CREATE TABLE `users` (
   `email` varchar(255) DEFAULT NULL,
   `password` varchar(255) DEFAULT NULL,
   `role` tinyint(1) NOT NULL,
-  `access` tinytext NOT NULL DEFAULT '0' COMMENT '0 - unrestricted, 1 - restricted\r\n',
+  `access` tinytext DEFAULT NULL COMMENT '0 - unrestricted, 1 - restricted\r\n',
   `date_created` datetime NOT NULL DEFAULT current_timestamp()
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_general_ci;
 
